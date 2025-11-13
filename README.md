@@ -32,14 +32,17 @@ Copy code
 ```bash
 git clone https://github.com/anindya-mukhopadhyay/Git-Hacks.git
 cd Git-Hacks
+
 2️⃣ Install dependencies
 bash
 Copy code
 npm install
+
 3️⃣ Run the project
 bash
 Copy code
 node index.js
+
 🌐 Open Project Webpage
 To open the webpage version of Git Hacks (if available):
 
@@ -49,6 +52,7 @@ cd webpage
 open index.html        # (Mac)
 # or
 start index.html       # (Windows)
+
 🧠 Git Tricks Example
 Here’s a quick sample trick included in the project:
 
@@ -56,6 +60,7 @@ bash
 Copy code
 # Create and switch to a new branch
 git checkout -b feature/new-trick
+
 🧑‍💻 Author
 Anindya Mukhopadhyay
 🎓 Engineering Student | 💻 Developer | 🚀 Innovator
